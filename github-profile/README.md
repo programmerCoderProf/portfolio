@@ -8,8 +8,9 @@
 
 ### ⚡ الإنجاز والسرعة — أهم ما يميزني | Fast delivery is my signature
 
-[![Telegram](https://img.shields.io/badge/Telegram-تواصل_معي-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/programmerCoderProf)
-[![Instagram](https://img.shields.io/badge/Instagram-تابعني-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmercoderprof/)
+[![Telegram](https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/programmerCoderProf)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmercoderprof/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://programmercoderprof.github.io/portfolio/)
 [![GitHub followers](https://img.shields.io/github/followers/programmerCoderProf?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/programmerCoderProf)
 
 </div>
@@ -110,10 +111,9 @@ High quality, fair pricing, tested delivery, and post-delivery support.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=programmerCoderProf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" height="165" />
-<img src="https://streak-stats.demolab.com/?user=programmerCoderProf&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="https://streak-stats.demolab.com/?user=programmerCoderProf&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=programmerCoderProf&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+<img src="https://ghchart.rshah.org/programmerCoderProf" alt="Contribution Calendar" width="95%" />
 
 </div>
 
@@ -125,7 +125,7 @@ High quality, fair pricing, tested delivery, and post-delivery support.
 
 محتوى عملي في **تطوير البرمجيات وDevSecOps والذكاء الاصطناعي**: خرائط طريق للمبرمجين، كود نظيف وأنماط تصميم، نصائح للمقابلات التقنية، وأتمتة بـ Kubernetes وCI/CD — تابعني وطوّر مستواك.
 
-[![Instagram](https://img.shields.io/badge/@programmercoderprof-تابعني_الآن-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmercoderprof/)
+[![Instagram](https://img.shields.io/badge/Follow-@programmercoderprof-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmercoderprof/)
 
 ---
 
@@ -133,8 +133,8 @@ High quality, fair pricing, tested delivery, and post-delivery support.
 
 **فكرتك تستحق أن تصبح واقعاً رقمياً — راسلني الآن وسأرد عليك سريعاً بخطة واضحة وسعر عادل**
 
-[![Telegram](https://img.shields.io/badge/💬_تيليجرام-@programmerCoderProf-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/programmerCoderProf)
-[![Instagram](https://img.shields.io/badge/📸_انستقرام-@programmercoderprof-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmercoderprof/)
+[![Telegram](https://img.shields.io/badge/Telegram-@programmerCoderProf-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/programmerCoderProf)
+[![Instagram](https://img.shields.io/badge/Instagram-@programmercoderprof-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmercoderprof/)
 
 <sub>Full-Stack Developer · Web Development · Mobile Apps · Bug Fixing · AI Integration · Automation · Web Security · Hosting · SEO · مطور مواقع · مبرمج تطبيقات · حل مشاكل برمجية · تحسين محركات البحث</sub>
 
